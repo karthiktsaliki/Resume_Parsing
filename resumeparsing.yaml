@@ -1,0 +1,6 @@
+name: resumeparsing
+channels:
+- anaconda-fusion
+- defaults
+prefix: /anaconda/envs/resumeparsing
+
